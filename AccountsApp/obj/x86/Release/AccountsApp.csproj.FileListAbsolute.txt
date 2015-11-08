@@ -1,0 +1,15 @@
+D:\Source\AccountsApp\AccountsApp\bin\Release\AccountsApp.exe.config
+D:\Source\AccountsApp\AccountsApp\bin\Release\Accounts.sdf
+D:\Source\AccountsApp\AccountsApp\bin\Release\AccountsApp.exe
+D:\Source\AccountsApp\AccountsApp\bin\Release\AccountsApp.pdb
+D:\Source\AccountsApp\AccountsApp\obj\x86\Release\AccountsApp.csprojResolveAssemblyReference.cache
+D:\Source\AccountsApp\AccountsApp\obj\x86\Release\AccountsApp.Accounts.resources
+D:\Source\AccountsApp\AccountsApp\obj\x86\Release\AccountsApp.Add_New_Item.resources
+D:\Source\AccountsApp\AccountsApp\obj\x86\Release\AccountsApp.Change_Password.resources
+D:\Source\AccountsApp\AccountsApp\obj\x86\Release\AccountsApp.Login.resources
+D:\Source\AccountsApp\AccountsApp\obj\x86\Release\AccountsApp.Properties.Resources.resources
+D:\Source\AccountsApp\AccountsApp\obj\x86\Release\AccountsApp.Search.resources
+D:\Source\AccountsApp\AccountsApp\obj\x86\Release\AccountsApp.ViewAll.resources
+D:\Source\AccountsApp\AccountsApp\obj\x86\Release\AccountsApp.csproj.GenerateResource.Cache
+D:\Source\AccountsApp\AccountsApp\obj\x86\Release\AccountsApp.exe
+D:\Source\AccountsApp\AccountsApp\obj\x86\Release\AccountsApp.pdb
